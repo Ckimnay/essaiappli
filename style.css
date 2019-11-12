@@ -1,0 +1,101 @@
+
+/************************/
+/* 	    COULEURS        */
+/************************/
+
+.primary {
+	background-color: #049DBF;
+}
+
+.text-primary {
+	color: #049DBF;
+}
+
+.secondary {
+	background-color: #FFB833;
+}
+
+.text-secondary {
+  color: #FFB833;	
+}
+
+.dark {
+	background-color: #545454;
+}
+
+.text-dark {
+  color: #545454;	
+}
+
+.medium-dark {
+	background-color: #7E7D80;
+}
+
+.text-medium-dark {
+  color: #7E7D80;	
+}
+
+
+.light {
+	background-color: #BCBCC4;
+}
+
+.text-light {
+  color: #BCBCC4;	
+}
+
+.warning {
+	background-color: #FF6433;
+}
+
+.text-warning {
+  color: #FF6433;	
+}
+
+.danger {
+	background-color: #A41E0B;
+}
+
+.text-danger {
+  color: #A41E0B;	
+}
+
+.success {
+	background-color: #2B682E;
+}
+
+.text-success {
+  color: #2B682E;	
+}
+
+.info {
+	background-color: #22497F;
+}
+
+.text-info {
+  color: #22497F;	
+}
+
+h1  {
+    font-size: 24px;
+}
+
+h2  {
+    font-size: 22px;
+}
+
+h3  {
+    font-size: 20px;
+}
+
+h4  {
+    font-size: 18px;
+}
+
+h5  {
+    font-size: 16px;
+}
+
+h6  {
+    font-size: 14px;
+}
